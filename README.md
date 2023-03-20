@@ -1,6 +1,10 @@
 # Ferramentas de controle de versão:
 
 * Mercurial
-* GitLab
+<<<<<< ramo2
+* Git
+=======
+* Git
+>>>>>> main
 * Subversion
 * CVS
