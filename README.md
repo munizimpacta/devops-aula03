@@ -2,7 +2,7 @@
 
 * Mercurial
 <<<<<< ramo2
-* Git
+* GitLab
 =======
 * Git
 >>>>>> main
